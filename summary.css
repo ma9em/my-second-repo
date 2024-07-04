@@ -2,6 +2,8 @@
     .div{
 
         background-image: url("/styles/download.jfif");
+        background-repeat: no-repeat;
+        background-size: 1024px 720px;
 
 
     }
@@ -13,6 +15,5 @@ header{ color: blue;}
 .two{background-color: rgb(255, 0, 98);}
 .three{ 
     
-    /* text-align: center; */
 color: aqua;}
-.four{ backgroun
+.four{ backgroun}
