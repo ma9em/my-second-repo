@@ -1,0 +1,18 @@
+*{margin: 10px;
+    .div{
+
+        background-image: url("/styles/download.jfif");
+
+
+    }
+text-align: center;}
+header{ color: blue;}
+.one{ 
+    background-color: blue;
+    color: brown;}
+.two{background-color: rgb(255, 0, 98);}
+.three{ 
+    
+    /* text-align: center; */
+color: aqua;}
+.four{ backgroun
